@@ -1,5 +1,5 @@
 # Final Project for BAS 475
 This project is a shiny app that provides various visual representations of provides a
-comprehensive view of the "Pigs" subset in the "aus_production" 
-dataframe within the regclass package. The user may adjust whatever graph they woud like to
-view and each graph provides a short description of the selected visual. 
+comprehensive view of the "Pigs" subset in the "aus_livestock" 
+dataframe within the fpp3 package. The user may adjust the visual using the sidebar panel. 
+This app presents my skills to create an app with a successful user interface and server. 
